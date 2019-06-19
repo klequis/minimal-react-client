@@ -2,7 +2,7 @@
 
 ## What 'book'?
 
-Don't have a final name for it yet but the scratchy beginnings of it are [here](https://github.com/klequis/modern-fullstack-mern.git).
+Don't have a final name for it yet but the scratchy beginnings of it are [here](https://github.com/klequis/modern-fullstack-mern/tree/preview).
 
 I'm currently planning to publish it on [Leanpub](https://leanpub.com/) and will open it up for pre-release review once there is enough content to be worth your time.
 
